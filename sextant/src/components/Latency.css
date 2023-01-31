@@ -1,0 +1,18 @@
+.latency-outer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.latency-outer .latency-inner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 45px 0px;
+}
+
+.latency-outer .latency-inner h3{
+    margin: 10px 0px;
+}
